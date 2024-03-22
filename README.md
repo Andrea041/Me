@@ -1,6 +1,8 @@
 <h1 align="center">Hi 🤙🏼, I'm Andrea 🙍🏼‍♂️</h1>
 <h3 align="center">MSc Student in Computer Engineering</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andrea041" alt="andrea041" /></a> </p>
+
 - 🔭 I’m currently studying at **University of Rome Tor Vergata**
 
 - 📚 I’m currently learning **Software testing and application of Machine Learning to software engineering**
@@ -20,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrea041&show_icons=true&locale=en" alt="andrea041" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrea041&" alt="andrea041" /></p>
+
