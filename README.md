@@ -23,4 +23,3 @@
 
 ![Snake animation](https://github.com/Andrea041/Andrea041/blob/output/github-contribution-grid-snake.svg)
 
-
