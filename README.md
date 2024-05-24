@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **University of Rome Tor Vergata**
 
-- 📚 I’m currently learning **Software testing and application of Machine Learning to Software Engineering**
+- 📚 I’m currently learning **Some application of Machine Learning to Software Engineering**
 
 - 📫 How to reach me **aandreo.2001@gmail.com**
 
